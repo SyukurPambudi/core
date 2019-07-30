@@ -1,0 +1,12 @@
+{
+  "vars": {},
+  "css": [
+    "buttons.less",
+    "glyphicons.less",
+    "breadcrumbs.less",
+    "pagination.less",
+    "modals.less"
+  ],
+  "js": [],
+  "customizerUrl": "https://getbootstrap.com/customize/?id=7562c00498843d5a199c6ad6cd70af9b"
+}

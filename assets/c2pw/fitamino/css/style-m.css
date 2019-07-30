@@ -1,0 +1,161 @@
+@charset "UTF-8";
+/************************************************************************************
+MOBILE
+*************************************************************************************/
+@media screen and (max-width: 1204px) {
+	.wrapper {
+		width: 100%; margin: 0 auto;
+	}
+	.bgSignBotom {
+	width: 100%; margin: 0 auto;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.wrapper {
+		width: 100%; margin: 0 auto;
+	}
+	.bgSignBotom {
+	width: 100%; margin: 0 auto;
+	}
+}
+@media screen and (max-width: 800px) {
+	.wrapper {
+		width: 100%; margin: 0 auto;
+	}
+	.bgSignBotom {
+	width: 100%; margin: 0 auto;
+	}
+	.boxUserMobile {
+		display: block;
+	}
+
+}
+
+@media screen and (max-width: 600px) {
+	body {
+		padding-top: 42px;
+	}
+	.wrapper {
+		padding: 0;
+		width: 100%; margin: 0 auto;
+	}
+	.divMobilebody {
+		padding: 2em 1em;
+	}
+	.bgSignBotom {
+	width: 100%; margin: 0 auto;
+	}
+	.bgSign {
+		padding: 0px 15px; margin-top: 0;
+	}
+	.leftFtr {
+		width: 100%; float: left;
+	}
+	.RightFtr {
+		width: 100%; float: right;
+	}
+	.boxTiga {
+		width: 100%; float: left;
+	}
+	.boxText {
+		background-color: #000000; width: 100%; padding: 5px 15px;margin-top: -75px;position: relative;opacity: 0.8; color: #ffffff; height: 67px;
+	}
+	.divcontent {
+		width: 100%; float: left;
+	}
+	.divright {
+		width: 100%; float: left;
+	}
+	.img100 {
+		width: 100%;
+	}
+	.divLogo {
+		width: 100%;
+		background-color: #ffffff;
+		border-bottom: 2px solid #273176;
+	}
+	.logo {
+		margin-top: 5px;
+		width: 135px;
+		margin-left: 73px;
+	}
+	.boxImgeList {
+		float: left;
+		margin-bottom: 25px; 
+	}
+	.boxlistJudul {
+		float: left; padding-left: 15px;
+	}
+	.image.fit {
+		margin-bottom: 0;
+	}
+	.boxArtikel {
+		float: left; width: 100%;
+	}
+	.divHitung {
+		padding: 5px; width: 100%; margin: 0;
+	}
+	.divNadineTalent {
+		margin-top: -50px;margin-bottom: 0;width: 370px;float: right; text-align: center;
+		width: 50%;
+	}
+	.divCS{
+		display: none;
+	}
+	.logoFotter {
+		margin-top: 5px; width: 90%; text-align: center; padding-left: 5px;
+	}
+	input[type="submit"], input[type="reset"], input[type="button"], .button {
+		padding: 0 10px;
+	}
+	.box100Testi {
+		padding-bottom: 0;
+	}
+	.boxEvenHome {
+		float: left; width: 100%; text-align: left;
+	}
+	.divEventHome {
+		margin-right: 0; width: 100%; height: auto;
+	}
+	.divwrap {
+		margin-top: 15px;
+	}
+	.judulHed {
+		font-size: 15px;
+	}
+	.boxJudul {
+		width: 100%; font-size: 13px;
+	}
+	.fitDetimg {
+		width: 100%;
+	}
+	ul.icons {
+		text-align: center; padding: 25px; 
+		border-bottom: 1px solid #ce296d;
+	}
+	.shareArtikel {
+		display: none;
+	}
+	.imgListArtkl {
+		height: auto;
+	}
+	.boxUserMobile {
+		display: block;
+	}
+	.divleft {
+		width: 100%; float: right;
+	}
+	.divBMI {
+		margin:0px; padding: 25px; background-color: #e9e5e7;
+		border-radius: 15px;
+	}
+	.boxMobileNone {
+		display: none;
+	}
+}
+
+@media screen and (min-width: 600px) {
+
+}
+
